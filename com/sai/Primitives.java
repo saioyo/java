@@ -1,4 +1,4 @@
-package com.rahul;
+package com.sai;
 
 public class Primitives {
     public static void main(String[] args) {
